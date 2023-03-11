@@ -1,0 +1,50 @@
+git 
+----------------------------------------------
+git config --global user.name "Yimi solorzano"
+
+git config --global user.email
+ysolorzanotolentino@gmail.com
+
+git config --global core.editor "code --wait"
+
+git config --global -e
+
+git config --global core.autocrlf true
+
+git config --global core.autocrlf inpu
+
+git config -h
+
+
+------------------------------------------------
+
+git init 
+
+git status
+
+git add 
+
+git commit -m "  "
+
+git rm archivo  (eliminar)
+
+git restore --staged archivo (restaurar)
+
+git restore archivo  (recuperar)
+
+
+git mv archivo1.txt archivo.txt (cambiar nombre)
+
+
+git dif (ver los cambioos )
+
+git log --oneline
+
+
+git branch  (ramam donde estamos)
+
+git checkout -b rama
+
+git merge (rama la cual creemos tarer)
+
+git branch -d elimanrama
